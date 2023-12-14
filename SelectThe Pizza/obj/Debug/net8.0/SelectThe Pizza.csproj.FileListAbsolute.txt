@@ -1,0 +1,30 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\appsettings.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.staticwebassets.runtime.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.exe
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.deps.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.runtimeconfig.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\bin\Debug\net8.0\SelectThe Pizza.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.AssemblyInfoInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.AssemblyInfo.cs
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.csproj.CoreCompileInputs.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.RazorAssemblyInfo.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.RazorAssemblyInfo.cs
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets\msbuild.SelectThe Pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets\msbuild.build.SelectThe Pizza.props
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SelectThe Pizza.props
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SelectThe Pizza.props
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\scopedcss\bundle\SelectThe Pizza.styles.css
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\scopedcss\projectbundle\SelectThe Pizza.bundle.scp.css
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\refint\SelectThe Pizza.dll
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.pdb
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\SelectThe Pizza.genruntimeconfig.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\SelectThe Pizza\obj\Debug\net8.0\ref\SelectThe Pizza.dll

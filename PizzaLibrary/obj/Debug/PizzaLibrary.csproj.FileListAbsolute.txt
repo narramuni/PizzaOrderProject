@@ -1,0 +1,2 @@
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\PizzaLibrary\obj\Debug\PizzaLibrary.csproj.AssemblyReference.cache
+C:\Users\SAI PAVAN KUMAR\source\repos\SelectThe Pizza\PizzaLibrary\obj\Debug\PizzaLibrary.csproj.CoreCompileInputs.cache
